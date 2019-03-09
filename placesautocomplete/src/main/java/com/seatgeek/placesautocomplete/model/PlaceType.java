@@ -7,4 +7,6 @@ public enum PlaceType {
     ROUTE,
     @SerializedName("geocode")
     GEOCODE
+    @SerializedName("(regions)")
+    REGIONS
 }
